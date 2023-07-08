@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://ranhart.github.io/rsschool-cv/
